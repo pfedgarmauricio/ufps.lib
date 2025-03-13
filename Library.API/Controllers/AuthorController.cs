@@ -23,6 +23,13 @@ public class AuthorController : ControllerBase
         return Ok(result);
     }
 
+    [HttpGet("{id:guid}")]
+    public async Task<ActionResult<AuthorDto?>> GetAuthorById(Guid id)
+    {
+        var result = await _authorService.FetchAuthorById(id);
+        return Ok(result);
+    }
+
     [HttpPost]
     public async Task<ActionResult<AuthorDto>> CreateAuthor(
         [FromBody] CreateAuthorRequest request)
@@ -31,5 +38,12 @@ public class AuthorController : ControllerBase
             Guid.Empty, request.Name, request.Nationality, request.DateOfBirth, new List<BookDto>()));
 
         return Ok(result);
+    }
+
+    [HttpDelete("{id:guid}")]
+    public async Task<ActionResult> DeleteAuthor(Guid id)
+    {
+        await _authorService.DeleteAuthorById(id);
+        return NoContent();
     }
 }

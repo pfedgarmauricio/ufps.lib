@@ -1,11 +1,11 @@
 import { useParams } from "react-router-dom";
 
 const AuthorDetails = () => {
-    const { ID } = useParams();
+    const { id } = useParams();
 
     return (
-        <div>
-            Author... {ID}
+        <div className="container">
+            Author... {id}
         </div>
     );
 }

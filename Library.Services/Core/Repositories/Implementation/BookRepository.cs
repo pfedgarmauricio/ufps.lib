@@ -13,10 +13,11 @@ public class BookRepository : IBookRepository
         _dbContext = dbContext;
     }
 
-    public async Task AddBookAsync(Book book)
+    public async Task<Book> AddBookAsync(Book book)
     {
         _dbContext.Books.Add(book);
         await _dbContext.SaveChangesAsync();
+        return book;
     }
 
     public Task DeleteBookAsync(Guid id)

@@ -10,3 +10,4 @@ C:\Users\pfmau\source\repos\UFPS.Library\Library.Services\obj\Debug\net8.0\Libra
 C:\Users\pfmau\source\repos\UFPS.Library\Library.Services\obj\Debug\net8.0\refint\Library.Services.dll
 C:\Users\pfmau\source\repos\UFPS.Library\Library.Services\obj\Debug\net8.0\Library.Services.pdb
 C:\Users\pfmau\source\repos\UFPS.Library\Library.Services\obj\Debug\net8.0\ref\Library.Services.dll
+C:\Users\pfmau\source\repos\UFPS.Library\Library.Services\obj\Debug\net8.0\Library.Services.sourcelink.json

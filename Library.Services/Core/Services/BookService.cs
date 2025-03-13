@@ -14,11 +14,19 @@ public class BookService : IBookService
         _bookRepository = bookRepository;
     }
 
-    public async Task AddBook(BookDto dto)
+    public async Task<BookDto> AddBook(BookDto dto)
     {
         try
         {
-            await _bookRepository.AddBookAsync(dto.FromDto());
+            var newBook = await _bookRepository.AddBookAsync(dto.FromDto());
+            return new BookDto(
+                newBook.ID,
+                newBook.Title,
+                newBook.Summary,
+                newBook.PublishingDate,
+                newBook.Genre.ToString(),
+                newBook.AuthorId
+                );
         }
         catch (Exception)
         {

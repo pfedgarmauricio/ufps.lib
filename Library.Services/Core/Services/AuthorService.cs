@@ -32,6 +32,18 @@ public class AuthorService : IAuthorService
         }
     }
 
+    public async Task DeleteAuthorById(Guid id)
+    {
+        try
+        {
+            await _authorRepository.DeleteAuthorAsync(id);
+        }
+        catch (Exception)
+        {
+            throw;
+        }
+    }
+
     public async Task<IEnumerable<AuthorDto>> FetchAllAuthors()
     {
         try

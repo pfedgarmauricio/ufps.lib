@@ -26,7 +26,7 @@ public class AuthorRepository : IAuthorRepository
         if (existingAuthor == null)
             throw new KeyNotFoundException("Not found.");
 
-        _dbContext.Authors.Remove(existingAuthor);
+        existingAuthor.SoftDelete();
         await _dbContext.SaveChangesAsync();
     }
 
