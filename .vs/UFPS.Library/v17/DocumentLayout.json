@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8AB8913-E27F-4DB4-A650-48AE0E8453E3}|Library.API\\Library.API.csproj|c:\\users\\pfmau\\source\\repos\\ufps.library\\library.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8AB8913-E27F-4DB4-A650-48AE0E8453E3}|Library.API\\Library.API.csproj|solutionrelative:library.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|c:\\users\\pfmau\\source\\repos\\ufps.library\\library.services\\core\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|solutionrelative:library.services\\core\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|c:\\users\\pfmau\\source\\repos\\ufps.library\\library.services\\core\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|solutionrelative:library.services\\core\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|c:\\users\\pfmau\\source\\repos\\ufps.library\\library.services\\core\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|solutionrelative:library.services\\core\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|c:\\users\\pfmau\\source\\repos\\ufps.library\\library.services\\core\\repositories\\implementation\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|solutionrelative:library.services\\core\\repositories\\implementation\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|c:\\users\\pfmau\\source\\repos\\ufps.library\\library.services\\core\\mapping\\authormapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|solutionrelative:library.services\\core\\mapping\\authormapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|c:\\users\\pfmau\\source\\repos\\ufps.library\\library.services\\core\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|solutionrelative:library.services\\core\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|c:\\users\\pfmau\\source\\repos\\ufps.library\\library.services\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|solutionrelative:library.services\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|c:\\users\\pfmau\\source\\repos\\ufps.library\\library.services\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F922F70B-2DA6-4C9A-85D5-7BBFE36AD21E}|Library.Services\\Library.Services.csproj|solutionrelative:library.services\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8AB8913-E27F-4DB4-A650-48AE0E8453E3}|Library.API\\Library.API.csproj|c:\\users\\pfmau\\source\\repos\\ufps.library\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8AB8913-E27F-4DB4-A650-48AE0E8453E3}|Library.API\\Library.API.csproj|solutionrelative:library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\Repositories\\Implementation\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Library.Services\\Core\\Repositories\\Implementation\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\Repositories\\Implementation\\AuthorRepository.cs",
+              "RelativeToolTip": "Library.Services\\Core\\Repositories\\Implementation\\AuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:55:29.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\Repositories\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Library.Services\\Core\\Repositories\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\Repositories\\IAuthorRepository.cs",
+              "RelativeToolTip": "Library.Services\\Core\\Repositories\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:55:16.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "Library.Services\\Core\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\IAuthorService.cs",
+              "RelativeToolTip": "Library.Services\\Core\\IAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:54:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorMapping.cs",
+              "DocumentMoniker": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\Mapping\\AuthorMapping.cs",
+              "RelativeDocumentMoniker": "Library.Services\\Core\\Mapping\\AuthorMapping.cs",
+              "ToolTip": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\Mapping\\AuthorMapping.cs",
+              "RelativeToolTip": "Library.Services\\Core\\Mapping\\AuthorMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:05:50.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "Library.Services\\DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\DTO\\BookDto.cs",
+              "RelativeToolTip": "Library.Services\\DTO\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:04:16.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\DTO\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "Library.Services\\DTO\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\DTO\\AuthorDto.cs",
+              "RelativeToolTip": "Library.Services\\DTO\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:03:28.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Library.Services\\Core\\Services\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\Services\\AuthorService.cs",
+              "RelativeToolTip": "Library.Services\\Core\\Services\\AuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:03:23.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Library.Services\\Core\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.Services\\Core\\Services\\BookService.cs",
+              "RelativeToolTip": "Library.Services\\Core\\Services\\BookService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAjwD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:03:17.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.API\\Program.cs",
+              "RelativeDocumentMoniker": "Library.API\\Program.cs",
+              "ToolTip": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.API\\Program.cs",
+              "RelativeToolTip": "Library.API\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:06:02.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.API\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Library.API\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\pfmau\\source\\repos\\UFPS.Library\\Library.API\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Library.API\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:55:45.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
