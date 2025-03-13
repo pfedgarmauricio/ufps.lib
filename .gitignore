@@ -1,0 +1,28 @@
+# .NET Project Specific
+/bin/
+/obj/
+*.user
+*.vspscc
+*.sln.ide
+*.suo
+*.log
+*.cache
+*.env*
+*.local
+# Node Modules and Build Artifacts
+node_modules/
+dist/
+build/
+.cache/
+.vite/
+# Editor Configurations
+.vscode/
+.idea/
+# Other
+*.log
+*.tmp
+*.user
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
